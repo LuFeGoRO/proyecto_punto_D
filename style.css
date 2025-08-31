@@ -3,7 +3,7 @@ body{
 }
 
  .contenedor{
-    background:linear-gradient(135deg, #0445b6, #000814) ;
+    background:linear-gradient(135deg, #00102c, #0445b6) ;
     display: flex;
  }
 .title{
