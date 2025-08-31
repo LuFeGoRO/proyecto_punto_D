@@ -1,0 +1,48 @@
+body{
+ background-color: rgb(10 63 104);
+}
+
+ .contenedor{
+    background:linear-gradient(135deg, #0445b6, #000814) ;
+    display: flex;
+ }
+.title{
+    
+    color: white;
+    margin-left: 5em;
+    padding: 72px;
+font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-size:20px;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.logo{
+     object-fit: contain;
+}
+.section_1{background:linear-gradient(135deg,  #0445b6, #00102c)}
+.section_2{background:linear-gradient(135deg,  #00102c, #0445b6)}
+.section_3{background:linear-gradient(135deg, #0445b6, #00102c)}
+.section_4{background:linear-gradient(135deg, #00102c, #0445b6)}
+
+.contenedor_2{
+    display: flex;
+    margin-left: 80px;
+
+}
+.subcont{
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    overflow: hidden; 
+   background-color: rgba(10 63 104);
+    
+}
+div > h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    font-weight: bold;
+    color:bisque;
+}
